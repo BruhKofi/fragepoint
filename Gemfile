@@ -20,6 +20,7 @@ source 'https://rubygems.org' do
   gem 'carrierwave'
   gem 'carrierwave_backgrounder' #background processing of images
 
+
 # HTML
   gem 'haml'
   gem 'slim-rails'
